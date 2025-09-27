@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ky\'s blog',
-  tagline: '大學生的小小天地',
+  //tagline: 'ky的小小天地',
   favicon: 'img/icon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
