@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kyx2015f.github.io/kyblog/blog</id>
     <title>ky's blog Blog</title>
-    <updated>2025-09-28T00:00:00.000Z</updated>
+    <updated>2025-09-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kyx2015f.github.io/kyblog/blog"/>
     <subtitle>ky's blog Blog</subtitle>
     <icon>https://kyx2015f.github.io/kyblog/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[發展遲緩]]></title>
+        <id>https://kyx2015f.github.io/kyblog/blog/20250929</id>
+        <link href="https://kyx2015f.github.io/kyblog/blog/20250929"/>
+        <updated>2025-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[小時候被檢測發展遲緩]]></summary>
+        <content type="html"><![CDATA[<p>之前應該有人聽過我這個好笑的事情，我小時候因為到兩歲還幾乎不會講話而被醫生檢測發展遲緩，聽媽媽說我當時被醫生詢問圖卡是什麼時，我都只會回答「狗」，真的有點讓人擔心😂。可能因為我是獨生女沒有什麼人跟我講話，爸媽的說話的量也不足夠，導致接受的刺激不夠多。</p>
+<p>後來就被急著送去幼稚園了，我進入幼稚園後語言能力就長進很多了👍</p>
+<p>不過我學習上確實很不擅長學語言，因此很佩服好多同學因為興趣而學其他語言，且學地蠻有成果的，真的好厲害！</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[摯友]]></title>
         <id>https://kyx2015f.github.io/kyblog/blog/20250928</id>
