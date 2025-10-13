@@ -2,15 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kyx2015f.github.io/kyblog/blog</id>
     <title>ky's blog Blog</title>
-    <updated>2025-10-12T21:00:00.000Z</updated>
+    <updated>2025-10-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kyx2015f.github.io/kyblog/blog"/>
     <subtitle>ky's blog Blog</subtitle>
     <icon>https://kyx2015f.github.io/kyblog/img/icon.png</icon>
     <entry>
+        <title type="html"><![CDATA[Google Pixel相機]]></title>
+        <id>https://kyx2015f.github.io/kyblog/blog/2025_1013 Google Pixel 相機</id>
+        <link href="https://kyx2015f.github.io/kyblog/blog/2025_1013 Google Pixel 相機"/>
+        <updated>2025-10-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Pixel 相機]]></summary>
+        <content type="html"><![CDATA[<p>使用新手機Google Pixel 9 已經兩個多月了，使用手感順暢，各方面功能都還不錯沒有什麼問題。</p>
+<p>唯獨相機，我實在對於無法關閉的「自動處理」感到很煩躁。每拍完一張照片，一點進去相簿，就會發現照片馬上被自動處理。細節變得更為銳利，色調調得更為扁平，只要照片有些陰影就會被補光。很多時候我喜歡照片原來的樣貌，經過自動處理調整後反而變差了。</p>
+<p>內建相機無法調整，後來下載open camera！這是開源的 Android相機應用程式，儲存的照片即是預覽的樣子！這個app成為我的解方。</p>
+<p>總之我覺得pixel手機最糟糕的功能就是相機自動處理。</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[表態的人]]></title>
-        <id>https://kyx2015f.github.io/kyblog/blog/20251012表態的人</id>
-        <link href="https://kyx2015f.github.io/kyblog/blog/20251012表態的人"/>
+        <id>https://kyx2015f.github.io/kyblog/blog/2025_1012表態的人</id>
+        <link href="https://kyx2015f.github.io/kyblog/blog/2025_1012表態的人"/>
         <updated>2025-10-12T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[表態的人]]></summary>
         <content type="html"><![CDATA[<p>高中有一篇課文是在講網路社群生態會形成一個個聚落，使得人總只會去接收跟自己意見相同的聲音而非互相溝通，社會實際上只會變得更為分化。現在的我覺得當時的自己有點愚蠢：自己當時的結論好像是，不要成為特定部落的人比較厲害？</p>
@@ -22,8 +33,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2025/10/02]]></title>
-        <id>https://kyx2015f.github.io/kyblog/blog/20251012</id>
-        <link href="https://kyx2015f.github.io/kyblog/blog/20251012"/>
+        <id>https://kyx2015f.github.io/kyblog/blog/2025_1012</id>
+        <link href="https://kyx2015f.github.io/kyblog/blog/2025_1012"/>
         <updated>2025-10-12T20:53:00.000Z</updated>
         <summary type="html"><![CDATA[Thu Oct 02 2025 08:00:00 GMT+0800 (Taipei Standard Time)]]></summary>
         <content type="html"><![CDATA[<p>Youtuber酷的夢近期的節目《中文怪物》很火紅，我也是幾乎跟上每一集的首播，昨天也跟媽媽在家裡用電視看節目，大略看過前面4集介紹給媽嗎知道這是在幹嘛，然後一起看新的第5集。節目很好看不用多說，但我蠻訝異的是原來有那麼多觀眾會帶入情緒去批評裡面的人，對於每一個人物的人品指指點點，當然也是因為我特地用threads查中文怪物，才會看到那麼多情緒言論。我自己則最在意陳安陽和海瑞森有沒有晉級XD，這兩位中文很好節目效果又很足</p>
