@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kyx2015f.github.io/kyblog/blog</id>
     <title>ky's blog Blog</title>
-    <updated>2025-10-15T00:00:00.000Z</updated>
+    <updated>2025-10-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kyx2015f.github.io/kyblog/blog"/>
     <subtitle>ky's blog Blog</subtitle>
     <icon>https://kyx2015f.github.io/kyblog/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025/10/17]]></title>
+        <id>https://kyx2015f.github.io/kyblog/blog/2025_1017</id>
+        <link href="https://kyx2015f.github.io/kyblog/blog/2025_1017"/>
+        <updated>2025-10-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[練習爾爾]]></summary>
+        <content type="html"><![CDATA[<p>練習爾爾</p>
+<p>啥物是重要ê代誌，我嘛毋知。足濟人自細漢ê時陣就定定聽大人講，變成一个優秀ê人誠重要，而且變成一種特定ê模樣才是優秀ê人，親像會當講一喙輾轉ê英語、會使考牢建中抑是北一女中，到台灣大學佇內底讀冊。有的人ê標準閣佮懸，講會曉讀冊閣會曉耍的人，才是真誠優秀。所以有誠濟人佇學生ê這个時段，拍拚讀冊，閣認真參與課外活動，若是啥物攏無做，就感覺浪費時間，若是無達成目標，心情就誠鬱卒。</p>
+<p>有一句話講：歇睏是為著行久長<sup><a href="https://kyx2015f.github.io/kyblog/blog/2025_1017#user-content-fn-1-e30175" id="user-content-fnref-1-e30175" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>ê路，毋過我感覺這个觀念嘛是叫逐家莫浪費時間，予人感覺真有壓力，因為若是我歇睏了後無小可進步毋就浪費矣。歇睏就歇睏，無需要為著未來愛進步。</p>
+<!-- -->
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://kyx2015f.github.io/kyblog/blog/2025_1017#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
+<ol>
+<li id="user-content-fn-1-e30175">
+<p>想欲翻譯華語「長遠」，揣無適合ê詞 <a href="https://kyx2015f.github.io/kyblog/blog/2025_1017#user-content-fnref-1-e30175" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></content>
+        <category label="台語" term="台語"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025/10/15]]></title>
         <id>https://kyx2015f.github.io/kyblog/blog/2025_1015</id>
