@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kyx2015f.github.io/kyblog/blog</id>
     <title>ky's blog Blog</title>
-    <updated>2025-10-17T00:00:00.000Z</updated>
+    <updated>2025-10-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kyx2015f.github.io/kyblog/blog"/>
     <subtitle>ky's blog Blog</subtitle>
     <icon>https://kyx2015f.github.io/kyblog/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025/10/22]]></title>
+        <id>https://kyx2015f.github.io/kyblog/blog/2025_1022</id>
+        <link href="https://kyx2015f.github.io/kyblog/blog/2025_1022"/>
+        <updated>2025-10-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[為著拜一欲出去翕相，拜日我去寶雅買物件，但是變作每一項物件攏無用得。攝影家(liap-iánn-ka)講我無準備(tsún-pī)好勢，但是這馬我就無法都開遮爾(tsiah-nī)濟時間去學按怎(án-nuá)畫妝（uē-tsng)就是矣。雖然翕相進前(tsìn-tsîng)有小可仔(sió-khuá-á)出問題，毋過(m̄-koh)翕落來ê相片(siòng-phìnn)看起來袂䆀，但是發現身體(sin-thé)變大箍矣🥲。]]></summary>
+        <content type="html"><![CDATA[<p>為著拜一欲出去翕相，拜日我去寶雅買物件，但是變作每一項物件攏無用得。攝影家(liap-iánn-ka)講我無準備(tsún-pī)好勢，但是這馬我就無法都開遮爾(tsiah-nī)濟時間去學按怎(án-nuá)畫妝（uē-tsng)就是矣。雖然翕相進前(tsìn-tsîng)有小可仔(sió-khuá-á)出問題，毋過(m̄-koh)翕落來ê相片(siòng-phìnn)看起來袂䆀，但是發現身體(sin-thé)變大箍矣🥲。</p>]]></content>
+        <category label="台語" term="台語"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025/10/17]]></title>
         <id>https://kyx2015f.github.io/kyblog/blog/2025_1017</id>
