@@ -4,10 +4,20 @@
         <title>ky's blog Blog</title>
         <link>https://kyx2015f.github.io/kyblog/blog</link>
         <description>ky's blog Blog</description>
-        <lastBuildDate>Fri, 24 Oct 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[2025/10/25]]></title>
+            <link>https://kyx2015f.github.io/kyblog/blog/2025_1025</link>
+            <guid>https://kyx2015f.github.io/kyblog/blog/2025_1025</guid>
+            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[最近無論是讀數學抑是讀資工攏感覺真痛苦。逐工一直接受智識，但是無輸出ê機會，頭殼已經變甲硬硬。]]></description>
+            <content:encoded><![CDATA[<p>最近無論是讀數學抑是讀資工攏感覺真痛苦。逐工一直接受智識，但是無輸出ê機會，頭殼已經變甲硬硬。</p>
+<p>Tsuè-kīn bô-lūn sī tha̍k sóo-ha̍k a̍h-sī tha̍k tsu-kang lóng kám-kak tsin thòng-khóo. Ta̍k-kang it-ti̍t tsiap-siū tì-sik,tān-sī bô su-tshut ê ki-huē, thâu-khak í-king piàn kah ngē-ngē.</p>]]></content:encoded>
+            <category>台語</category>
+        </item>
         <item>
             <title><![CDATA[2025/10/24]]></title>
             <link>https://kyx2015f.github.io/kyblog/blog/2025_1024</link>
@@ -258,17 +268,6 @@
             <content:encoded><![CDATA[<p>我大一的時候有設定 ig 摯友，那時我把高中同學和大一比較熟的同學加入到摯友名單裡面，但現在我根本沒有在用摯友限動這個功能，都只發一般的限時動態。畢竟我也沒有什麼只想和摯友分享但不想和其他人分享的東西。</p>
 <p>況且，要定義誰是「摯友」本身就是有點尷尬的事情。事實上，現在的我都不太敢說我跟誰「熟」了，因為我覺得我和幾乎所有人都不熟：就是我知道我只認識別人的一個面向。即使我有和那個人定期交流、往來，那這樣就能說我和他很熟嗎？但現在我自己其實也不太會想主動了解別人的其他面向，或許聽故事會很開心，但也常不知道怎麼回應。</p>
 <p>不過，當看到別人把我歸類在「摯友」的時候，我還是會感到受寵若驚，心想「喔！他把我加進摯友ㄝ！」，這是開心地啦！</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[學習使用RSS]]></title>
-            <link>https://kyx2015f.github.io/kyblog/blog/2025_0915學習使用RSS</link>
-            <guid>https://kyx2015f.github.io/kyblog/blog/2025_0915學習使用RSS</guid>
-            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[在香港待上一個半月的心得]]></description>
-            <content:encoded><![CDATA[<p>看了<a href="https://wiwi.blog/blog/you-should-use-rss" target="_blank" rel="noopener noreferrer">wiwi的部落格</a>就嘗試去安裝FreshRSS，要不是修過資工系的課安裝過軟體，還有現在AI的幫忙，不然光是裝軟體的這個部分就讓很多人不想安裝FreshRSS了，除了安裝困難以外，RSS網址還不是一般網址可以直接複製，怪不得沒什麼人想要用RSS訂閱服務，不過也是因為各社群媒體平台不想要推廣這件事情，想要大眾綁定在他們的平台，才讓這項應該要很強大的服務變得難以使用，好讓大家只用特定社群平台就好。</p>
-<p>建立好FreshRSS最讓我驚喜的是：可以只訂閱特定的Youtube播放清單！這樣我就可以把台語相關的影片清單RSS網址全部都放在台語的清單類別 ! 也因為wiwi而知道這位台語工作者<a href="https://kiantiong.com/" target="_blank" rel="noopener noreferrer">陳建中的部落格</a>，還因此看到他的<a href="https://www.youtube.com/watch?v=vfLMAMch-OY&amp;t=5150s" target="_blank" rel="noopener noreferrer">影片</a>，裡面有寫台語文、芋圓字典regex，還了解一些關於字體呈現的一些概念，昨天真的是挖到寶！</p>
-<p>另外，看到wiwi數位教育確實有些啟發，的確許多老師認為只要把所有的出席與考卷google表單化就是所謂的數位校園、數位教育，但實際上，大家也只是變成特定產品的消費者而已。</p>]]></content:encoded>
-            <category>數位</category>
         </item>
     </channel>
 </rss>
