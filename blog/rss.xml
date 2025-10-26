@@ -4,10 +4,20 @@
         <title>ky's blog Blog</title>
         <link>https://kyx2015f.github.io/kyblog/blog</link>
         <description>ky's blog Blog</description>
-        <lastBuildDate>Sat, 25 Oct 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Oct 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[2025/10/26]]></title>
+            <link>https://kyx2015f.github.io/kyblog/blog/2025_1026</link>
+            <guid>https://kyx2015f.github.io/kyblog/blog/2025_1026</guid>
+            <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[今仔日暗時去漁光島看火舞ê表演，有夠濟人。彼个火ê變化真濟，有用火跳索仔，有提索仔自轉，誠實精彩。]]></description>
+            <content:encoded><![CDATA[<p>今仔日暗時去漁光島看火舞ê表演，有夠濟人。彼个火ê變化真濟，有用火跳索仔，有提索仔自轉，誠實精彩。</p>
+<p>kin-á-ji̍t àm-sî khì hî-kng-tóo khuànn hué-bú ê piáu-ián, ū kàu tsē lâng. Hit-ê hué ê piàn-huà tsin tsē, ū iōng hué thiàu-soh-á, ū the̍h soh-á tsū-tsuán, tsiânn-si̍t tsing-tshái.</p>]]></content:encoded>
+            <category>台語</category>
+        </item>
         <item>
             <title><![CDATA[2025/10/25]]></title>
             <link>https://kyx2015f.github.io/kyblog/blog/2025_1025</link>
@@ -258,16 +268,6 @@
 <p>後來就被急著送去幼稚園，我進入幼稚園後語言能力就長進很多了👍</p>
 <p>不過我學習上確實很不擅長學語言，因此很佩服好多同學因為興趣而學其他語言，且學地蠻有成果的，真的好厲害！</p>]]></content:encoded>
             <category>語言</category>
-        </item>
-        <item>
-            <title><![CDATA[摯友]]></title>
-            <link>https://kyx2015f.github.io/kyblog/blog/2025_0928摯友</link>
-            <guid>https://kyx2015f.github.io/kyblog/blog/2025_0928摯友</guid>
-            <pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[ig摯友限時動態]]></description>
-            <content:encoded><![CDATA[<p>我大一的時候有設定 ig 摯友，那時我把高中同學和大一比較熟的同學加入到摯友名單裡面，但現在我根本沒有在用摯友限動這個功能，都只發一般的限時動態。畢竟我也沒有什麼只想和摯友分享但不想和其他人分享的東西。</p>
-<p>況且，要定義誰是「摯友」本身就是有點尷尬的事情。事實上，現在的我都不太敢說我跟誰「熟」了，因為我覺得我和幾乎所有人都不熟：就是我知道我只認識別人的一個面向。即使我有和那個人定期交流、往來，那這樣就能說我和他很熟嗎？但現在我自己其實也不太會想主動了解別人的其他面向，或許聽故事會很開心，但也常不知道怎麼回應。</p>
-<p>不過，當看到別人把我歸類在「摯友」的時候，我還是會感到受寵若驚，心想「喔！他把我加進摯友ㄝ！」，這是開心地啦！</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
