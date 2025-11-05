@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kyx2015f.github.io/kyblog/blog</id>
     <title>ky's blog Blog</title>
-    <updated>2025-11-03T00:00:00.000Z</updated>
+    <updated>2025-11-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kyx2015f.github.io/kyblog/blog"/>
     <subtitle>ky's blog Blog</subtitle>
     <icon>https://kyx2015f.github.io/kyblog/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[日誌習慣]]></title>
+        <id>https://kyx2015f.github.io/kyblog/blog/2025_1105</id>
+        <link href="https://kyx2015f.github.io/kyblog/blog/2025_1105"/>
+        <updated>2025-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日記習慣]]></summary>
+        <content type="html"><![CDATA[<p>自大學開始寫日記ê習慣就毋是每一仝寫矣，大部分攏是過一段時間了後才寫最近發生啥物代誌，毋是因為台語較歹寫，就是要有較完整ê想法才想欲去紀錄。所以我佇頭頁寫講我是「日誌」毋是日記。毋過有時陣我嘛感覺家己要求傷懸，若是講無一个好好ê思考就無想欲記。</p>
+<p>用華語拍ê議論(gī-lūn)性ê物件通常是佇頭磕來雄雄思考出來ê想法，可能是較深的觀察佮思想，畢竟(pit-kìng)用目前用台語拍ê速度無夠緊。</p>
+<p>最近咧想个ê代誌是安怎創作台語相關ê物件，雖然講網路頂懸有真濟創作，但是攏無彼種台語真正是生活中一部分ê感覺。無youtuber真正佇生活當中講台語，而且作台語相關工課ê人佇討論(thó-lūn)代誌ê時陣嘛是用華語去討論。目前ê想法是會使去經營「手寫口座」(kháu-tsō)，手寫台語相關ê句猶閣有心靈雞湯。</p>]]></content>
+        <category label="台語" term="台語"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[輕量化的「愛」]]></title>
         <id>https://kyx2015f.github.io/kyblog/blog/2025_1103</id>
@@ -29,14 +40,6 @@
         <summary type="html"><![CDATA[今仔日暗時去漁光島看火舞ê表演，有夠濟人。彼个火ê變化真濟，有用火跳索仔，有提索仔自轉，誠實精彩。]]></summary>
         <content type="html"><![CDATA[<p>今仔日暗時去漁光島看火舞ê表演，有夠濟人。彼个火ê變化真濟，有用火跳索仔，有提索仔自轉，誠實精彩。</p>
 <p>Kin-á-ji̍t àm-sî khì hî-kng-tóo khuànn hué-bú ê piáu-ián, ū kàu tsē lâng. Hit-ê hué ê piàn-huà tsin tsē, ū iōng hué thiàu-soh-á, ū the̍h soh-á tsū-tsuán, tsiânn-si̍t tsing-tshái.</p>]]></content>
-        <category label="台語" term="台語"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025/10/26]]></title>
-        <id>https://kyx2015f.github.io/kyblog/blog/2025_1027</id>
-        <link href="https://kyx2015f.github.io/kyblog/blog/2025_1027"/>
-        <updated>2025-10-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">EIN_Demo/</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">│</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">├── level1_ein_core.py     ← Level 1：EIN 模型核心</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">├── level2_app_layer.py    ← Level 2：可互動應用層（Streamlit 介面邏輯）</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">├── level3_data_io.py      ← Level 3：資料輸入與展示（處理 貼文/留言/資料集）</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">│</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">├── model/</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">│   ├── __init__.py</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">│   ├── trainer.py        </span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">│   └── pretrained_weights/ ← （checkpoint）</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">│</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">├── app.py                  ← 主程式，整合 Level 1~3</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">├── requirements.txt</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">└── README.md</span><br></span></code></pre></div></div>]]></content>
         <category label="台語" term="台語"/>
     </entry>
     <entry>
