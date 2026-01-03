@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5951],{3334:e=>{e.exports=JSON.parse('{"tags":[{"label":"\u500b\u6027","permalink":"/kyblog/blog/tags/\u500b\u6027","count":1},{"label":"\u8a9e\u8a00","permalink":"/kyblog/blog/tags/\u8a9e\u8a00","count":2},{"label":"\u9999\u6e2f","permalink":"/kyblog/blog/tags/\u9999\u6e2f","count":1}]}')}}]);

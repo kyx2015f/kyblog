@@ -2,11 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kyx2015f.github.io/kyblog/blog</id>
     <title>ky's blog Blog</title>
-    <updated>2025-10-13T00:00:00.000Z</updated>
+    <updated>2026-01-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kyx2015f.github.io/kyblog/blog"/>
     <subtitle>ky's blog Blog</subtitle>
     <icon>https://kyx2015f.github.io/kyblog/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[機車駕照紀錄]]></title>
+        <id>https://kyx2015f.github.io/kyblog/blog/2026_0104</id>
+        <link href="https://kyx2015f.github.io/kyblog/blog/2026_0104"/>
+        <updated>2026-01-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[機車駕照]]></summary>
+        <content type="html"><![CDATA[<p>聽校慶演唱會那天看到機車駕訓班資訊，隔天查地點覺得很方便，再加上中午以前都沒課了，星期一馬上體檢+報名駕訓班。一切就非常突然</p>
+<hr>
+<p>之前練習騎車的紀錄：</p>
+<ul>
+<li>
+<p>其實你不需要整趟都直線7秒的速度</p>
+</li>
+<li>
+<p>直線七秒後，早一點停下來
+（停車處可以離停車線遠一點 比較好加速後轉彎）</p>
+</li>
+<li>
+<p>在直線處加速，轉彎處不加速
+（利用剩餘速度轉彎，而不是在轉彎處加速，加速時也不要太快）</p>
+</li>
+<li>
+<p>待轉其實不用擺的那麼正</p>
+</li>
+<li>
+<p>記得左右擺頭</p>
+</li>
+</ul>
+<p>12/24</p>
+<ul>
+<li>在等待考試時，可以左手煞車，讓右手練習含著的感覺</li>
+<li>還是不要在練習時騎太快，考試可能會緊張而暴衝</li>
+</ul>
+<p>12/26</p>
+<ul>
+<li>一開始直線七秒，速度先騎上去，不要一開始就腳落地</li>
+</ul>
+<hr>
+<p>考駕照前還有道安講座，那天最困難的部分就是完成危險感知題，有許多人連Qrcode都不會掃😅。當天工作人員還請我幫一位阿媽使用系統，可能因為人手不足了？🤣</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Pixel相機]]></title>
         <id>https://kyx2015f.github.io/kyblog/blog/2025_1013 Google Pixel 相機</id>
@@ -17,6 +57,27 @@
 <p>唯獨相機，我實在對於無法關閉的「自動處理」感到很煩躁。每拍完一張照片，一點進去相簿，就會發現照片馬上被自動處理。細節變得更為銳利，色調調得更為扁平，只要照片有些陰影就會被補光。很多時候我喜歡照片原來的樣貌，經過自動處理調整後反而變差了。</p>
 <p>內建相機無法調整，後來下載open camera！這是開源的 Android相機應用程式，儲存的照片即是預覽的樣子！這個app成為我的解方。</p>
 <p>總之我覺得pixel手機最糟糕的功能就是相機自動處理。</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introverted Extrovert]]></title>
+        <id>https://kyx2015f.github.io/kyblog/blog/2025_0930Introverted extrovert</id>
+        <link href="https://kyx2015f.github.io/kyblog/blog/2025_0930Introverted extrovert"/>
+        <updated>2025-09-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introverted extrovert 外顯特徵為I的E人]]></summary>
+        <content type="html"><![CDATA[<p>聽了<a href="https://youtu.be/RaHsEzqnTyQ?si=y4-8OhMbAzwouWSG&amp;t=124" target="_blank" rel="noopener noreferrer">多比炫採訪博恩的podcast</a>看到一個有趣的問題，為什麼有 Extroverted Introvert 卻沒有 Introverted Extrovert？這問題有打中我，因為我總是不知道要把自己歸類成E人還是I人，上網搜尋後發現雖然沒有很多人在討論，但其實早就有人在提出Introverted Extrovert這個概念，看了些文章以及
+看到這部 <a href="https://www.youtube.com/watch?v=WJ01G4_WQVE&amp;t=2s" target="_blank" rel="noopener noreferrer">6 Signs You're an Introverted Extrovert</a> 便覺得 Introverted Extrovert 好像蠻符合我的</p>
+<hr>
+<p><a href="https://www.youtube.com/watch?v=WJ01G4_WQVE&amp;t=2s" target="_blank" rel="noopener noreferrer">6 Signs You're an Introverted Extrovert</a> 提及 Introverted Extrovert 的特徵如下</p>
+<ol>
+<li>You're great with people</li>
+<li>You're the go-to shoulder for all of your friends</li>
+<li>You love being alone but still get lonely</li>
+<li>You're more vulnerable than people realize</li>
+<li>People will either recharge or drain you</li>
+<li>You speak a lot within your group of friends but get incredibly shy when meeting new people</li>
+</ol>
+]]></content>
+        <category label="個性" term="個性"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[發展遲緩]]></title>
@@ -49,7 +110,6 @@
 </ol>
 </section>]]></content>
         <category label="香港" term="香港"/>
-        <category label="出國" term="出國"/>
         <category label="語言" term="語言"/>
     </entry>
 </feed>
