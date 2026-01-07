@@ -78,6 +78,17 @@
 <p>考駕照前還有道安講座，那天最困難的部分就是完成危險感知題，有許多人連Qrcode都不會掃😅。當天工作人員還請我幫一位阿媽使用系統，可能因為人手不足了？🤣</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[台語辭典&練習]]></title>
+        <id>https://kyx2015f.github.io/kyblog/blog/2026_0107台語辭典</id>
+        <link href="https://kyx2015f.github.io/kyblog/blog/2026_0107台語辭典"/>
+        <updated>2025-11-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[去資工系上課我感覺學了上濟ê就是 有限狀態機finite automata 相關ê課，這个課有時陣予人感覺誠像數學。]]></summary>
+        <content type="html"><![CDATA[<p>去資工系上課我感覺學了上濟ê就是 有限狀態機finite automata 相關ê課，這个課有時陣予人感覺誠像數學。</p>
+<p>這个課一開始會解說電腦是按怎處理「食入來」ê 字元，知影講原來電腦是用「食一步行一步」這款方式去接受字元佮改變狀態。紲落來會講著「語言Language」對電腦來講是啥？電腦按怎定義「文法Grammer」？後尾會講著Turing Machine圖靈機ê機動原理，為啥物電腦會使處理有限(countable)ê問題爾，無法度處理所有ê pattern。</p>
+<p>修了這門課了後，去修編譯器Compiler相關ê課就會較緊進入狀況。頭前重新去解說Language猶閣有regular expression，後面就是新內容，按怎parse字串......透過三擺功課去寫出一个真正會使用ê編譯器。</p>
+<p>就是因為修過這兩門課，第一擺<a href="https://sutian.moe.edu.tw/zh-hant/tshautsok/tshasun-hongsik-suatbing/#hid7" target="_blank" rel="noopener noreferrer">佇教典看著regular expression</a>有夠驚喜ê🤣</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google Pixel相機]]></title>
         <id>https://kyx2015f.github.io/kyblog/blog/2025_1013 Google Pixel 相機</id>
         <link href="https://kyx2015f.github.io/kyblog/blog/2025_1013 Google Pixel 相機"/>
