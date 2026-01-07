@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kyx2015f.github.io/kyblog/blog</id>
     <title>ky's blog Blog</title>
-    <updated>2026-01-06T00:00:00.000Z</updated>
+    <updated>2026-01-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kyx2015f.github.io/kyblog/blog"/>
     <subtitle>ky's blog Blog</subtitle>
     <icon>https://kyx2015f.github.io/kyblog/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[唱歌不是哼歌]]></title>
+        <id>https://kyx2015f.github.io/kyblog/blog/2026_0107</id>
+        <link href="https://kyx2015f.github.io/kyblog/blog/2026_0107"/>
+        <updated>2026-01-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我當然知道唱歌不是哼歌]]></summary>
+        <content type="html"><![CDATA[<p>我當然知道唱歌不是哼歌</p>
+<p>但是開始去過幾次ktv後，深刻感受到自己超級不知道如何面對麥克風，才真正發覺自己唱歌的出力位置真的哪裡怪怪的</p>
+<p>自己住之後，比較有自己的空間亂嘗試自己的聲音，並試著回想高二合唱的學習經驗和一般唱歌的相同與不同之處。合唱給嘴巴的O字形空間更大一些，不過一般唱歌也是要給予嘴巴足夠的空間，然後要用和平常說話接近的發聲位置唱出來才會比較扎實。用哼歌的發聲位置去唱歌就容易變得非常虛</p>
+<p>自己去ktv也蠻有幫助的，不過很多店都要付兩人份的錢，目前只自己去過一次XD</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學習模式]]></title>
         <id>https://kyx2015f.github.io/kyblog/blog/2026_0106</id>
