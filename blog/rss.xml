@@ -4,20 +4,17 @@
         <title>ky's blog Blog</title>
         <link>https://kyx2015f.github.io/kyblog/blog</link>
         <description>ky's blog Blog</description>
-        <lastBuildDate>Wed, 07 Jan 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[唱歌不是哼歌]]></title>
-            <link>https://kyx2015f.github.io/kyblog/blog/2026_0107</link>
-            <guid>https://kyx2015f.github.io/kyblog/blog/2026_0107</guid>
-            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[我當然知道唱歌不是哼歌]]></description>
-            <content:encoded><![CDATA[<p>我當然知道唱歌不是哼歌</p>
-<p>但是開始去過幾次ktv後，深刻感受到自己超級不知道如何面對麥克風，才真正發覺自己唱歌的出力位置真的哪裡怪怪的</p>
-<p>自己住之後，比較有自己的空間亂嘗試自己的聲音，並試著回想高二合唱的學習經驗和一般唱歌的相同與不同之處。合唱給嘴巴的O字形空間更大一些，不過一般唱歌也是要給予嘴巴足夠的空間，然後要用和平常說話接近的發聲位置唱出來才會比較扎實。用哼歌的發聲位置去唱歌就容易變得非常虛</p>
-<p>自己去ktv也蠻有幫助的，不過很多店都要付兩人份的錢，目前只自己去過一次XD</p>]]></content:encoded>
+            <title><![CDATA[口音]]></title>
+            <link>https://kyx2015f.github.io/kyblog/blog/2026_0110口音</link>
+            <guid>https://kyx2015f.github.io/kyblog/blog/2026_0110口音</guid>
+            <pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[好吧可能我真的有種奇妙的口音但我也不知道為什麼會這樣明明我爸媽也沒有特別的口音，總之我在台灣土生土長且爸爸媽媽以及親戚都是台灣人也沒有在國外生活過我不是中國人更不是馬來西亞人，就是按呢tiō-sī án-ne。]]></description>
+            <content:encoded><![CDATA[<p>好吧可能我真的有種奇妙的口音但我也不知道為什麼會這樣明明我爸媽也沒有特別的口音，總之我在台灣土生土長且爸爸媽媽以及親戚都是台灣人也沒有在國外生活過我不是中國人更不是馬來西亞人，就是按呢tiō-sī án-ne。</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[學習模式]]></title>
@@ -79,17 +76,6 @@
 <p>考駕照前還有道安講座，那天最困難的部分就是完成危險感知題，有許多人連Qrcode都不會掃😅。當天工作人員還請我幫一位阿媽使用系統，可能因為人手不足了？🤣</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[台語辭典&練習]]></title>
-            <link>https://kyx2015f.github.io/kyblog/blog/2026_0107台語辭典</link>
-            <guid>https://kyx2015f.github.io/kyblog/blog/2026_0107台語辭典</guid>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[去資工系上課我感覺學了上濟ê就是 有限狀態機finite automata 相關ê課，這个課有時陣予人感覺誠像數學。]]></description>
-            <content:encoded><![CDATA[<p>去資工系上課我感覺學了上濟ê就是 有限狀態機finite automata 相關ê課，這个課有時陣予人感覺誠像數學。</p>
-<p>這个課一開始會解說電腦是按怎處理「食入來」ê 字元，知影講原來電腦是用「食一步行一步」這款方式去接受字元佮改變狀態。紲落來會講著「語言Language」對電腦來講是啥？電腦按怎定義「文法Grammer」？後尾會講著Turing Machine圖靈機ê機動原理，為啥物電腦會使處理有限(countable)ê問題爾，無法度處理所有ê pattern。</p>
-<p>修了這門課了後，去修編譯器Compiler相關ê課就會較緊進入狀況。頭前重新去解說Language猶閣有regular expression，後面就是新內容，按怎parse字串......透過三擺功課去寫出一个真正會使用ê編譯器。</p>
-<p>就是因為修過這兩門課，第一擺<a href="https://sutian.moe.edu.tw/zh-hant/tshautsok/tshasun-hongsik-suatbing/#hid7" target="_blank" rel="noopener noreferrer">佇教典看著regular expression</a>有夠驚喜ê🤣</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Google Pixel相機]]></title>
             <link>https://kyx2015f.github.io/kyblog/blog/2025_1013 Google Pixel 相機</link>
             <guid>https://kyx2015f.github.io/kyblog/blog/2025_1013 Google Pixel 相機</guid>
@@ -97,8 +83,8 @@
             <description><![CDATA[Google Pixel 相機]]></description>
             <content:encoded><![CDATA[<p>使用新手機Google Pixel 9 已經兩個多月了，使用手感順暢，各方面功能都還不錯沒有什麼問題。</p>
 <p>唯獨相機，我實在對於無法關閉的「自動處理」感到很煩躁。每拍完一張照片，一點進去相簿，就會發現照片馬上被自動處理。細節變得更為銳利，色調調得更為扁平，只要照片有些陰影就會被補光。很多時候我喜歡照片原來的樣貌，經過自動處理調整後反而變差了。</p>
-<p>內建相機無法調整，後來下載open camera！這是開源的 Android相機應用程式，儲存的照片即是預覽的樣子！這個app成為我的解方。</p>
-<p>總之我覺得pixel手機最糟糕的功能就是相機自動處理。</p>]]></content:encoded>
+<p>內建相機無法調整，後來下載open camera，這是開源的 Android相機應用程式，儲存的照片即是預覽的樣子！這個app成為我的解方。</p>
+<p>總之我覺得pixel手機最糟糕的就是不能自由取消相機自動處理。</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Introverted Extrovert]]></title>
